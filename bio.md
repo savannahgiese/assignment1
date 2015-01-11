@@ -6,6 +6,7 @@ Hobbies:
 Interests:
 * 3d animation
 * Traveling
+* Movies
 
 Programming Background:
 * Created a Krypto card game for CS 161 final
