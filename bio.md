@@ -8,3 +8,5 @@ Interests:
 * Traveling
 
 Programming Background:
+* Created a Krypto card game for CS 161 final
+* Created a battle game for CS 162 final
